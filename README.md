@@ -1,5 +1,7 @@
 
-# Kanban
+PROJECT SETUP AND INSTALLATION FOR RUNNING INTO VS CODE:
+npm install [installs all the packages for the nest.js and redux toolkit]
+npm run dev [will run on the system and give the link for deployed app on localhost3000]
 
 Full-stack task-management app built with NestJS, Next.js and Firebase.
 You can check the original project idea from [Frontend Mentor](https://www.frontendmentor.io/challenges/kanban-task-management-web-app-wgQLt-HlbB).
